@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zubair/static/css/main.231885e4.css",
+    "main.js": "/zubair/static/js/main.ac2c1db1.js",
+    "static/js/592.a4a1a5eb.chunk.js": "/zubair/static/js/592.a4a1a5eb.chunk.js",
+    "index.html": "/zubair/index.html",
+    "main.231885e4.css.map": "/zubair/static/css/main.231885e4.css.map",
+    "main.ac2c1db1.js.map": "/zubair/static/js/main.ac2c1db1.js.map",
+    "592.a4a1a5eb.chunk.js.map": "/zubair/static/js/592.a4a1a5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231885e4.css",
+    "static/js/main.ac2c1db1.js"
+  ]
+}
